@@ -83,8 +83,12 @@ http://www.pkfsc.edu.bd
 | Name | Email |
 |----|----|
 |Habib| it@pktsc.edu.bd|
-|Riaz| habibriaz2020@gmai.com|
+|Riaz| habibriaz2020@gmail.com|
+|Sumaiya| sumaiya@gmail.com|
+|Hasan| hasan@gmail.com|
 
+
+হাসান চকলেট খুচছে কিন্তু পায় না
 
 
 
